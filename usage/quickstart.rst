@@ -76,6 +76,14 @@ gives you super user powers!
     $cd ~/Documents/sphinx_tutorial
     $make html
 
+配置github环境
+----------------
+
+.. code-block:: xml
+
+    git config --global user.email "zuisixian@mail.com"
+    git config --global user.name "zuisixian"
+    ssh-keygen -t rsa -C "zuisixian@mail.com"
 
 
 官网资料
