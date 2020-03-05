@@ -15,6 +15,7 @@ Sphinx 使用 reStructuredText 作为编写语言，也可以使用 Markdown + �
     $ pip3 install -U sphinx # Linux系统
     # or
     $sudo apt-get install python3-sphinx
+    $pip3 install --index-url https://pypi.tuna.tsinghua.edu.cn/simple/ sphinx jieba(可选)
 
 
 常用语法
